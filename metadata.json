@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI – Smart Civic Management System",
+  "description": "AI-powered civic complaint reporting, intelligent priority scoring, municipal officer command center, and before-and-after resolution verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
